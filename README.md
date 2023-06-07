@@ -1,6 +1,6 @@
 # Tableau Tutorial: Optimizing dashboards when dealing with extremely large datasets.
 
-**1. Leverage Extracts over Live Connections**
+**1. Use Extracts over Live Connections**
 
 Where possible, use Tableau Data Extracts (TDEs) instead of live connections. Extracts allow Tableau to compress the data and use columnar storage, which can lead to substantial improvements in performance. You can also create extracts that only include relevant columns or rows, reducing the data size Tableau needs to process.
 
