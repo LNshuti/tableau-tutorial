@@ -1,4 +1,4 @@
-# tableau-tutorial: Optimizing dashboards when dealing with extremely large datasets.
+# Tableau Tutorial: Optimizing dashboards when dealing with extremely large datasets.
 
 **1. Leverage Extracts over Live Connections**
 
